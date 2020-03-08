@@ -4,7 +4,7 @@ title: About me
 subtitle: Stat and Cat
 ---
 
-![alt text](img/i-dont-need-religion-ive-got-big-data.jpg "Logo Title Text 1")
+![big-data](img/i-dont-need-religion-ive-got-big-data.jpg)
 
 ### My Story
 
