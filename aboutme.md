@@ -6,7 +6,7 @@ subtitle: Stat and Cat
 ![big-data](img/i-dont-need-religion-ive-got-big-data.jpg)
 ### My Story
 
-- I like data science, especially its statistical foundations.
+- I like data science, especially its mathematical and statistical foundations.
 
 - I obtained my Bachelor in Economic Statistics from Southwestern University of Finance and Economics in Chengdu, China. I am currently pursuing a Master in [Data Science](http://dsi.brown.edu/) from Brown University, RI, USA.
 
