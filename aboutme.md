@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Stat and Cat
 ---
 ![big-data](img/99581d906146f3c34b9a8d7017c8b53c_2_-1_art.jpg)
 ### My Story
