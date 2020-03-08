@@ -13,6 +13,4 @@ title: About me
 
 ### Contact
 
-If you are intersted in my work, do not hesitate to contact me.
-
-hanxiaoc@outlook.com
+If you are intersted in my work, do not hesitate to contact me: hanxiaoc@outlook.com
