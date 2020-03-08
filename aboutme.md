@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Stat and Cat
 ---
-![big-data](img/i-dont-need-religion-ive-got-big-data.jpg)
+![big-data](img/99581d906146f3c34b9a8d7017c8b53c_2_-1_art.jpg)
 ### My Story
 
 - I like data science, especially its mathematical and statistical foundations.
