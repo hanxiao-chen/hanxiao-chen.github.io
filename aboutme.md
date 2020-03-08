@@ -3,7 +3,9 @@ layout: page
 title: About me
 subtitle: Stat and Cat
 ---
+
 ![alt text](img/i-dont-need-religion-ive-got-big-data.jpg "Logo Title Text 1")
+
 ### My Story
 
 - I like data science, especially its statistical foundations.
