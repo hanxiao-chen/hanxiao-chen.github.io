@@ -11,3 +11,8 @@ title: About me
 
 - I have a cat, KK, an [Exotic Shorthair](https://en.wikipedia.org/wiki/Exotic_Shorthair).
 
+### Contact
+
+If you are intersted in my work, do not hesitate to contact me.
+
+hanxiaoc@outlook.com
