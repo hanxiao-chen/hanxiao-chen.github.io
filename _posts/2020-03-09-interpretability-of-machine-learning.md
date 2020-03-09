@@ -9,6 +9,7 @@ image: /img/inter_img.jpg
 ![map](../img/inter-map.png){: .center-block :}
 
 
+
 ### Reference
 [1] Mittelstadt, Brent and Russell, Chris and Wachter, Sandra, Explaining Explanations in AI (November 4, 2018). Proceedings of FAT* ’19: Conference on Fairness, Accountability, and Transparency (FAT* ’19), January 29–31, 2019, Atlanta, GA, USA. ACM, New York, NY, USA, doi/10.1145/3287560.3287574, ISBN: 978-1-4503-6125-5. Available at SSRN: https://ssrn.com/abstract=3278331
 
