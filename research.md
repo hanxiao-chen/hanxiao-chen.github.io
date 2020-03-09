@@ -3,13 +3,13 @@ layout: page
 title: My research
 ---
 
-### Research Interests
+## Research Interests
 I like **data science** and its **probabilistic and statistical** foundations:
 - Nonparametric regression;
 - Network analysis;
 - Applied machine learning and data mining.
 
-### Selected Projects
+## Selected Projects
 
 #### Shareholding Relationship Network and Stock Price Fluctuations
 - Research intern at The Institute of Automation of the Chinese Academy of Sciences (CASIA).
