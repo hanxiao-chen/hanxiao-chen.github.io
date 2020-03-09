@@ -16,5 +16,3 @@ image: /img/inter_img2.png
 [2] Burrell, J. (2016). How the machine ‘thinks’: Understanding opacity in machine learning algorithms. Big Data & Society. https://doi.org/10.1177/2053951715622512
 
 [3] Finale Doshi-Velez and Been Kim(2017), Towards A Rigorous Science of Interpretable Machine Learning. arXiv. https://arxiv.org/abs/1702.08608 
-
-[4] Interpretability vs. Accuracy: The Friction that Defines Deep Learning (https://towardsdatascience.com/interpretability-vs-accuracy-the-friction-that-defines-deep-learning-dae16c84db5c)
