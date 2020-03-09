@@ -9,7 +9,9 @@ title: About me
 
 - I have a cat, KK, an [Exotic Shorthair](https://en.wikipedia.org/wiki/Exotic_Shorthair).
 
-- I like **data science** and its **probabilistic and statistical** foundations
+- I like **data science** and its **probabilistic and statistical** foundations.
+
+- I was a volunteer at Red Cross.
 
 - Reading📖, movies🍿, music🎧, food🍦
 
