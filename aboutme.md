@@ -12,7 +12,7 @@ title: About me
 - Reading📖, movies🍿, music🎧, food🍦
 
 ### Research Interests
-I like **data science**, especially its **probabilistic and statistical** foundations:
+I like **data science** and its **probabilistic and statistical** foundations:
 - Nonparametric regression;
 - Network analysis;
 - Applied machine learning.
