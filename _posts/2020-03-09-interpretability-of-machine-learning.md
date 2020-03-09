@@ -3,7 +3,7 @@ layout: post
 title: Interpretability of machine learning
 subtitle: A mind map
 comments: true
-image: /img/inter_img.png
+image: ../img/inter_img.png
 ---
 
 ![map](../img/inter-map.png){: .center-block :}
