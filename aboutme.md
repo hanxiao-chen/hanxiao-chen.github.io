@@ -9,13 +9,9 @@ title: About me
 
 - I have a cat, KK, an [Exotic Shorthair](https://en.wikipedia.org/wiki/Exotic_Shorthair).
 
-- Reading📖, movies🍿, music🎧, food🍦
+- I like **data science** and its **probabilistic and statistical** foundations
 
-### Research Interests
-I like **data science** and its **probabilistic and statistical** foundations:
-- Nonparametric regression;
-- Network analysis;
-- Applied machine learning.
+- Reading📖, movies🍿, music🎧, food🍦
 
 ### Contact
 
