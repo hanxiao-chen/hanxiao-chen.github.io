@@ -6,7 +6,7 @@ comments: true
 image: /img/inter_img2.png
 ---
 
-![map](../img/interpretability.png){: .center-block :}
+![map](/img/interpretability.png){: .center-block :}
 
 # Outline
 
