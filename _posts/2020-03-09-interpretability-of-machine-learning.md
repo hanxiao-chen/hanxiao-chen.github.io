@@ -26,15 +26,19 @@ Three methods
 
 ### Factors influence interpretability
 - Task-related
+
 - Method-related 
 
 ### Solutions
 - Avoid using ML. ML is useful only if the task we are dealing with cannot be formulated specifically.
+
 - Simplify model. A simple model is as accurate as a complex model sometimes (usually require domain knowledge).
+
 - Using approximate methods. (LIME, Shap, etc.)
 
 # Explanation
 - Philosophically, The approximate models mentioned here are limited to scientific explanations.
+
 - Contrastive approaches should be applied as new alternatives.
 
 
