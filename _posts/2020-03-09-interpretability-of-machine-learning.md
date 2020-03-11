@@ -25,16 +25,17 @@ Incompleteness in problem formalization
 Three methods
 
 ### Factors influence interpretability
-Task-related, method-related 
+- Task-related
+- Method-related 
 
 ### Solutions
-Avoid using ML. ML is useful only if the task we are dealing with cannot be formulated specifically.
-Simplify model. A simple model is as accurate as a complex model sometimes (usually require domain knowledge).
-Using quantitative methods. (LIME, Shap, etc.)
+- Avoid using ML. ML is useful only if the task we are dealing with cannot be formulated specifically.
+- Simplify model. A simple model is as accurate as a complex model sometimes (usually require domain knowledge).
+- Using approximate methods. (LIME, Shap, etc.)
 
 # Explanation
-Philosophically, The approximate models mentioned here are limited to scientific explanations.
-In the furture, to further understand our task, contrastive approaches should be applied, which are alternatives of the approximate models.
+- Philosophically, The approximate models mentioned here are limited to scientific explanations.
+- Contrastive approaches should be applied as new alternatives.
 
 
 # Reference
