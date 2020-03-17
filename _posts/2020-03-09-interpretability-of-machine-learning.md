@@ -9,9 +9,9 @@ image: /img/inter_img2.png
 ![map](/img/inter_map.png){: .center-block :}
 
 # Opacity of 3 dimensions:
-1. Some parties want to keep their models confidential.
-2. Some people do not understand code, math, and models.
-3. It is hard to interpret some models like neural network.
+1. Intentional secrecy. Some parties want to keep their models confidential.
+2. Technical illiteracy. Some people do not understand code, math, and models.
+3. Characteristics of machine learning. It is hard to interpret some models like neural network.
 *For AI community, **Interpretability** usually mean the 3rd dim of opacity.*
 
 # Interpretability
@@ -22,7 +22,12 @@ Degree of human comprehensibility of a model
 Incompleteness in problem formalization
 
 ### How to evaluate it? 
-Three methods
+
+- Application-grounded Evaluation: Real humans, real task
+
+- Human-grounded Evaluation: Real humans, simplified tasks
+
+- Functionally-grounded Evaluation: No humans, proxy tasks
 
 ### Factors influence interpretability
 - Task-related
