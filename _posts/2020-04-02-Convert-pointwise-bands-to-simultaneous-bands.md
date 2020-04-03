@@ -33,6 +33,8 @@ $$ \begin{equation}
 
 # 2. Finite domain
 
+Assume that we can build a C-P CI for $p(x)$ for any x. Our goal is to build simultaneous bands of $1- \beta$ for $p(x)$:
+
 \\[ P(p(x_k) \in [l(x_k),u(x_k)],\forall i = 1,2,...,n) \geq 1- \beta \\]
 
 \\[ P(p(x_k) \in [l(x_k),u(x_k)],\forall i = 1,2,...,n) \\]
