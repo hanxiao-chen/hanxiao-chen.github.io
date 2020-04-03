@@ -20,7 +20,13 @@ $$ \begin{equation}
     \end{cases}
   \end{equation} $$
 
-\\[ \begin{document} \begin{equation} u= \begin{cases} 1, & \text{if}\ X=n \\ B(1 - \frac{\alpha}{2},X+1,n-X), & \text{otherwise} \end{cases} \end{equation} \end{document} \\]
+$$ \begin{equation}
+    u=
+    \begin{cases}
+      1, & \text{if}\ X=n \\
+      B(1-\frac{\alpha}{2},X+1,n-X), & \text{otherwise}
+    \end{cases}
+  \end{equation} $$
 
 
 
