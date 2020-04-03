@@ -4,8 +4,8 @@
 Let
 \\[ X ~ Bin(n,p) \\].
 We want to find all the values p \\( ([l,u]) \\)that are not rejected at level \\( \alpha \\):
-\\[ \sum_{k=X}^{n}\begin{pmatrix} n\\ k\\ \end{pmatrix} l^k (1-l)^{n-k} = \frac{\alpha}{2} \\]
-\\[ \sum_{k=0}^{X}\begin{pmatrix} n\\ k\\ \end{pmatrix} u^k (1-u)^{n-k} = \frac{\alpha}{2} \\]
+\\[ \sum_{k=X}^{n} \binom(n,k) l^k (1-l)^{n-k} = \frac{\alpha}{2} \\]
+\\[ \sum_{k=0}^{X} \binom(n,k) u^k (1-u)^{n-k} = \frac{\alpha}{2} \\]
 
 The association between beta and binomial distribution:
 \\[ \sum_{k=X}^{n}\begin{pmatrix} n\\ k \end{pmatrix} p^k (1-p)^{n-k} = \int_{0}^{p} f (t|X,n-X+1)dt \\]
