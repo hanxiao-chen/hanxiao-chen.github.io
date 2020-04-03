@@ -12,15 +12,13 @@ The association between beta and binomial distribution:
 
 Therefore,
 
-\\[ \begin{document}
-  \begin{equation}
+\\[ \begin{equation}
     l=
     \begin{cases}
       0, & \text{if}\ X=0 \\
       B(\frac{\alpha}{2},X,n-X+1), & \text{otherwise}
     \end{cases}
-  \end{equation}
-\end{document} \\]
+  \end{equation} \\]
 
 \\[ \begin{document} \begin{equation} u= \begin{cases} 1, & \text{if}\ X=n \\ B(1 - \frac{\alpha}{2},X+1,n-X), & \text{otherwise} \end{cases} \end{equation} \end{document} \\]
 
