@@ -11,6 +11,7 @@ The association between beta and binomial distribution:
 \\[ \sum_{k=X}^{n} \binom{n}{k} p^k (1-p)^{n-k} = \int_{0}^{p} f (t|X,n-X+1)dt \\]
 
 Therefore,
+\\[ \usepackage{amsmath} \\]
 
 \\[ \begin{document}
   \begin{equation}
