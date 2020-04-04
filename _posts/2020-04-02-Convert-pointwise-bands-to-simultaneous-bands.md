@@ -60,10 +60,10 @@ $$ U(x) = max_{i = 1,2,\dots,n} u(x_i)$$
 
 Then,
 
-$$ P( L(x) \leq p(x) \leq U(x),\forall x \in D ) \linebreak
-\geq P( l(x) \leq p(x) \leq u(x),\forall x \in D ) \linebreak
-\geq P( l(a(x)) \leq p(x), p(x) \leq u(b(x)),\forall x \in D ) \linebreak
-\geq P( l(a(x)) \leq p(a(x)), p(b(x)) \leq u(b(x)),\forall x \in D ) \linebreak
-\geq P( l(a(x)) \leq p(a(x)) \leq u(a(x)), l(b(x)) \leq p(b(x)) \leq u(b(x)),\forall x \in D ) \linebreak
-\geq P( l(x_i) \leq p(x_i) \leq u(x_i),\forall x_i \in S ) \linebreak
+$$ P( L(x) \leq p(x) \leq U(x),\forall x \in D ) \\
+\geq P( l(x) \leq p(x) \leq u(x),\forall x \in D ) \\
+\geq P( l(a(x)) \leq p(x), p(x) \leq u(b(x)),\forall x \in D ) \\
+\geq P( l(a(x)) \leq p(a(x)), p(b(x)) \leq u(b(x)),\forall x \in D ) \\
+\geq P( l(a(x)) \leq p(a(x)) \leq u(a(x)), l(b(x)) \leq p(b(x)) \leq u(b(x)),\forall x \in D ) \\
+\geq P( l(x_i) \leq p(x_i) \leq u(x_i),\forall x_i \in S ) \\
 \geq 1 - n \alpha $$ (proof in Section 2)
