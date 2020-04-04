@@ -50,6 +50,24 @@ Therefore, \\( \beta = n \alpha \\).
 \\( B_{x,r} = \\{ y \mid \| y-x \| \leq r \\} \\) contains all the neighbors of $x$.
 
 Suppose we have a set $S= \\{ x_1,x_2,\dots,x_n \\} \subseteq D$, our assumption is that:
-For any $x \in D$, there exists $x_i,x_j \in S \cap B_{x,r}$, $p(x_i)\leq p(x) \leq p(x_j)$
+For any $x \in D$, there exists $a(x),b(x) \in S \cap B_{x,\frac{W}{2}}$, $p(a(x))\leq p(x) \leq p(b(x))$
 
+Define:
 
+$$ L(x) = min_{i = 1,2,\dots,n} l(x_i)$$,
+
+$$ U(x) = max_{i = 1,2,\dots,n} u(x_i)$$
+
+$$ P( L(x) \leq p(x) \leq U(x),\forall x \in D )
+
+\geq P( l(x) \leq p(x) \leq u(x),\forall x \in D )
+
+\geq P( l(a(x)) \leq p(x), p(x) \leq u(b(x)),\forall x \in D )
+
+\geq P( l(a(x)) \leq p(a(x)), p(b(x)) \leq u(b(x)),\forall x \in D )
+
+\geq P( l(a(x)) \leq p(a(x)) \leq u(a(x)), l(b(x)) \leq p(b(x)) \leq u(b(x)),\forall x \in D )
+
+\geq P( l(x_i) \leq p(x_i) \leq u(x_i),\forall x_i \in S )
+
+\geq 1 - n \alpha $$ ($proof in Section 2$)
