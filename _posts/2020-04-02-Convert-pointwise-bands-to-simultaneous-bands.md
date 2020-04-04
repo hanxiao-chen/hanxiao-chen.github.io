@@ -47,7 +47,7 @@ Therefore, \\( \beta = n \alpha \\).
 
 # 3. Infinite domain
 
-$B_{x,r} = \{ y \mid \| y-x \| \leq r \}$ contains all the neighbors of $x$.
+$B_{x,r} = { y \mid \| y-x \| \leq r }$ contains all the neighbors of $x$.
 
-Suppose we have a set $S= \{ x_1,x_2,...,x_n \} \subseteq D$, our assumption is that:
+Suppose we have a set $S= { x_1,x_2,...,x_n } \subseteq D$, our assumption is that:
 For any $x \in D$, there exists $x_i,x_j \in S \cap B_{x,r}$, $p(x_i)\leq p(x) \leq p(x_j)$
