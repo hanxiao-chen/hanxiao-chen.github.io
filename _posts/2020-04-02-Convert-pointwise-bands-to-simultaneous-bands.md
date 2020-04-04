@@ -54,9 +54,11 @@ For any $x \in D$, there exists $a(x),b(x) \in S \cap B_{x,\frac{W}{2}}$, $p(a(x
 
 Define:
 
-$$ L(x) = \min_{i = 1,2,\dots,n} l(x_i)$$
+$$ L(x) = \min_{t\in D \cap B_{x,\frac{W}{2}}} l(t)$$
 
-$$ U(x) = \max_{i = 1,2,\dots,n} u(x_i)$$
+$$ U(x) = \max_{t\in D \cap B_{x,\frac{W}{2}}} u(t)$$
+
+i.e. $L(x)$, $U(x)$ are the min, max of l(t),u(t) for t near x.
 
 Then,
 
