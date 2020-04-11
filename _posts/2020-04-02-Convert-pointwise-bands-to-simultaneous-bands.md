@@ -69,3 +69,8 @@ $$ P( L(x) \leq p(x) \leq U(x),\forall x \in D ) \\
 \geq P( l(a(x)) \leq p(a(x)) \leq u(a(x)), l(b(x)) \leq p(b(x)) \leq u(b(x)),\forall x \in D ) \\
 \geq P( l(x_i) \leq p(x_i) \leq u(x_i),\forall x_i \in S ) \\
 \geq 1 - n \alpha $$ (proof in Section 2)
+
+
+Reference:
+
+https://doi.org/10.26300/dqhx-ce26
